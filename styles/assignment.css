@@ -6,7 +6,7 @@
 .header{
     background-image: url(../images/banner/banner1.png);
     width: 1600px;
-    height: 808px;
+    height: 809px;
     background-repeat: no-repeat;
 
 }
@@ -100,7 +100,7 @@
 }
 .skill-title{
     font-weight: 270px;
-    font-size: 35px;
+    font-size: 30px;
     margin-top: 30px;
     margin-bottom: 20px;
 
@@ -108,4 +108,29 @@
 .skill-description{
     color: #757575;
 
+
+}
+.hard-section{
+    width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    top: 2216.3px;
+    
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+}
+.hard-section-title{
+    width: 495px;
+    height: 94px;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+.second-button{
+    background: #ffffff;
+    color: #fd6e0a;
+    width: 160px;
+    height: 64;
+    padding-top: 18px;
+    padding-left: 20px;
 }
