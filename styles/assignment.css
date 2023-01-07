@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    font-family: 'work sans';
+}
+/*header part*/
+.header{
+    background-image: url(../images/banner/banner1.png);
+    width: 1600px;
+    height: 808px;
+    background-repeat: no-repeat;
+
+}
+.header-title{
+    font-weight: 700px;
+    font-size: 65px;
+    text-align: right;
+    position: absolute;
+    margin-top: 216px;
+    margin-left: 876px;
+    margin-right: 400px;
+    width: 525px;
+    height: 228px;
+
+}
+.paragraph{
+    font-weight: 400px;
+    font-size: 16px;
+    text-align: right;
+    color: #444343;
+    position: absolute;
+    margin: 468px 230px 263px 876px;
+}
+.btn-primary{
+    position: absolute;
+    border-radius: 5px;
+    color: #ffffff;
+    background: #fd6e0a;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    margin: 578px 230px 167px 876px;
+}
+.first-section{
+    background-image: url(../images/person.png);
+    background-repeat: no-repeat;
+    display: flex;
+    position: relative;
+    width: 1072px;
+    height: 723px;
+    left: 206px;
+}
+.section-title{
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-right: 450px;
+    margin-left: 600px;
+    margin-top: 200px;
+    position: absolute;
+    width: 288px;
+    height: 94;
+
+}
+.first-section-paragraph-one{
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 250px;
+    height: 100px;
+    margin-top: 300px;
+    margin-left: 600px;
+    margin-bottom: 100px;
+}
+.second-section{
+    margin: 130px;
+    width: 1141px;
+    height: 299px;
+
+}
+.second-section-header{
+    text-align: center;
+    
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 30px;
+
+}
+.skill-container{
+    display: flex;
+    gap: 86px;
+}
+.skill{
+    background:#ffffff;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 270px;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+.skill-description{
+    color: #757575;
+
+}
