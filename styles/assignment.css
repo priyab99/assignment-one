@@ -16,7 +16,6 @@
     text-align: right;
     margin-top: 216px;
     margin-left: 876px;
-    margin-right: 400px;
     position: absolute;
     width: 525px;
     height: 228px;
@@ -28,7 +27,7 @@
     text-align: right;
     color: #444343;
     position: absolute;
-    margin: 468px 230px 263px 876px;
+    margin: 468px 250px 263px 876px;
 }
 .btn-primary{
     position: absolute;
@@ -39,19 +38,17 @@
     font-size: 20px;
     border: 0;
     padding: 18px 35px;
-    margin: 578px 230px 167px 876px;
+    margin: 600px 170px 167px 925px;
 }
 .first-section{
     background-image: url(../images/person.png);
     background-repeat: no-repeat;
     display: flex;
-    position: relative;
     width: 1072px;
     height: 723px;
-    left: 206px;
+   margin-left: 200px;
 }
 .section-title{
-    position: absolute;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -64,14 +61,9 @@
     height: 94;
 
 }
-.first-section-paragraph-one{
-    position: absolute;
-    font-style: normal;
+.pa-one{
     font-weight: 400;
     font-size: 16px;
-    line-height: 26px;
-    width: 250px;
-    height: 100px;
     margin-top: 300px;
     margin-left: 600px;
     margin-bottom: 100px;
@@ -112,25 +104,27 @@
 }
 .hard-section{
     width: 1140px;
-    height: 300px;
-    margin-left: 230px;
-    top: 2216.3px;
-    
-    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
-    border-radius: 8px;
+height: 300px;
+left: 230px;
+top: 2216.3px;
+
+background: linear-gradient(90deg, #F15B22 0%, rgba(93, 82, 77, 0) 100%);
+border-radius: 8px;
 }
 .hard-section-title{
     width: 495px;
     height: 94px;
     color: #ffffff;
-    margin-top: 30px;
-    margin-bottom: 25px;
+    margin-top: 10px;
+    padding: 50px;
 }
 .second-button{
-    background: #ffffff;
+    background:white;
     color: #fd6e0a;
-    width: 160px;
-    height: 64;
+    width: 200px;
+    height: 65px;
+    font-size:20px ;
+    font-weight: 400px;
     padding-top: 18px;
     padding-left: 20px;
 }
@@ -139,9 +133,11 @@
     background-color: black;
 }
 .contact-description{
+    padding: 20px;
     color: #ffffff;
 }
 .contact-p{
+    text-align: left;
     color: #ffffff;
 }
 .contact input[type="email"]{
