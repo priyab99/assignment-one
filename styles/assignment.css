@@ -5,7 +5,7 @@
 /*header part*/
 .header{
     background-image: url(../images/banner/banner1.png);
-    width: 1600px;
+    width: 1400px;
     height: 809px;
     background-repeat: no-repeat;
 
@@ -16,7 +16,8 @@
     text-align: right;
     margin-top: 216px;
     margin-left: 876px;
-    position: absolute;
+    margin-right:200px;
+       position: absolute;
     width: 525px;
     height: 228px;
 
